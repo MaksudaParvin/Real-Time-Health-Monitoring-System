@@ -1,2 +1,1 @@
-●	Developed an IoT-based system to monitor patient vital signs (temperature, BPM, SpO₂, motion) in real time using sensors and Arduino Mega 2560
-●	Implemented real-time display on OLED screen with alert system via Blynk dashboard and email notifications for abnormal conditions
+Developed an IoT-based system to monitor patient vital signs (temperature, BPM, SpO₂, motion) in real time using sensors and Arduino Mega 2560. Implemented real-time display on OLED screen with alert system via Blynk dashboard and email notifications for abnormal conditions
