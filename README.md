@@ -147,13 +147,6 @@ Add your project images here:
 
 ---
 
-## 👩‍💻 Developer
-
-**Maksuda Parvin**
-
-Computer Science & Engineering (CSE)
-
-Bangladesh University of Business and Technology (BUBT)
 
 GitHub: https://github.com/MaksudaParvin
 
